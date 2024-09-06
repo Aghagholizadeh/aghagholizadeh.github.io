@@ -11,7 +11,7 @@ The high occupancy levels in urban multistory buildings, aging infrastructure, i
 
 ![Aerial view of Los Angeles](/images/la_aerial.jpeg)
 
-For more details on our research please go to the [Research Page](https://aghagholizadeh.github.io/Research/) of website!
+For more details on our research please go to the [Research Page](https://aghagholizadeh.github.io/research/) of website!
 
 
 
