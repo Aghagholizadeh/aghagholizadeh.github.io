@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experice"
 collection: teaching
-# type: "Undergraduate course"
+type: "Lis of Courses"
 permalink: /teaching/teaching-expr
 venue: "Loyola Marymount University, Department of Civil and Environmental Engineering"
 date: 2023-present
