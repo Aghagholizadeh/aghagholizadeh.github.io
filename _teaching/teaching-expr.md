@@ -4,7 +4,7 @@ collection: teaching
 type: "Lis of Courses"
 permalink: /teaching/teaching-expr
 venue: "Loyola Marymount University, Department of Civil and Environmental Engineering"
-date: 2023-present
+date: present
 location: "Los Angeles, CA"
 ---
 
