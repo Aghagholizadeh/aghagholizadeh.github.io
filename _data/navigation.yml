@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/    
+    url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,7 +18,7 @@ main:
 #    url: /portfolio/
         
   - title: "Blog Posts"
-    url: /Blog/
+    url: /blog/
     
  # - title: "CV"
  #   url: /cv/
