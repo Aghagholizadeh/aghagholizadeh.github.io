@@ -9,7 +9,7 @@ redirect_from:
 
 The high occupancy levels in urban multistory buildings, aging infrastructure, in association with current safety considerations inevitably leads to a reconsideration of performance objectives. In view of the growing interest in the field of structural engineering to design structures that are resilient to natural hazards and are sustainable, research studies at sehm-lab aims to find innovative solution for these needs. 
 
-![Aerial view of Los Angeles]{/images/Los_angeles.jpeg}
+![Aerial view of Los Angeles](/images/la_aerial.jpeg)
 
 A data-driven personal website
 ======
