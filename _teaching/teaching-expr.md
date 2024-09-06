@@ -8,13 +8,8 @@ date: 2023-present
 location: "Los Angeles, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- ENGR1300-Engineering Visualization
+- ENGR2001-Statics
+- CIVL3360-Structural Dynamics & Seismic Design
+- CIVL3350-Structural Analysis and Design
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
