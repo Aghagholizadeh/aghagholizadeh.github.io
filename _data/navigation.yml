@@ -11,10 +11,10 @@ main:
   - title: "Research"
     url: /research/    
     
-    - title: "Publications"
+  - title: "Publications"
     url: /publications/
     
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
 #  - title: "Portfolio"
