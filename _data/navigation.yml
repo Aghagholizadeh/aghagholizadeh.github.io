@@ -14,9 +14,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Teaching"
-    url: /teaching/    
-    
+#  - title: "Teaching"
+ #   url: /teaching/    
+
+    - title: "List of Publications"  # ← New entry here
+    url: /list-of-publications/
 #  - title: "Portfolio"
 #    url: /portfolio/
         
