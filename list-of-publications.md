@@ -1,4 +1,4 @@
-# 📚 Publications
+_Updated automatically from [Google Scholar](https://scholar.google.com/citations?user=Nt-tWzsAAAAJ)._
 
 - **The dynamics of an elastic structure coupled with a rocking wall**, Nicos Makris and Mehrdad Aghagholizadeh. *Earthquake Engineering & Structural Dynamics*, 2017. (Cited by: 96)
 - **Seismic response of a yielding structure coupled with a rocking wall**, Mehrdad Aghagholizadeh and Nicos Makris. *Journal of Structural Engineering*, 2018. (Cited by: 71)
