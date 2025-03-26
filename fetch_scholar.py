@@ -4,7 +4,8 @@ scholar_id = "Nt-tWzsAAAAJ"
 
 author = scholarly.fill(scholarly.search_author_id(scholar_id))
 
-md_content = "# 📚 Publications\n\n"
+#md_content = "# 📚 Publications\n\n"
+md_content = "_Updated automatically from [Google Scholar](https://scholar.google.com/citations?user=Nt-tWzsAAAAJ)._\n\n"
 
 for pub in author['publications']:
     pub_filled = scholarly.fill(pub)
