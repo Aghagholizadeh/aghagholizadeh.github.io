@@ -19,5 +19,6 @@ for pub in author['publications']:
     md_content += f"- **{title}**, {authors}. *{journal}*, {year}. (Cited by: {citedby})\n"
 
 # Write publications to markdown file
-with open("publications.md", "w", encoding="utf-8") as file:
+# with open("publications.md", "w", encoding="utf-8") as file:
+ with open("publications/index.md", "w", encoding="utf-8") as file:
     file.write(md_content)
