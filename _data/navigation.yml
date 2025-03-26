@@ -9,21 +9,23 @@ main:
     url: /people/
 
   - title: "Research"
-    url: /research/    
-    
-  - title: "Publications"
-    url: /publications/
-    
-#  - title: "Teaching"
- #   url: /teaching/    
+    url: /research/
 
-    - title: "List of Publications"  # ← New entry here
+#  - title: "Publications"
+#    url: /publications/
+
+  - title: "List of Publications"
     url: /list-of-publications/
+
+#  - title: "Teaching"
+#    url: /teaching/    
+
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
+
     
  # - title: "CV"
  #   url: /cv/
