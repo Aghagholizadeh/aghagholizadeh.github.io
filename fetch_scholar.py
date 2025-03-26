@@ -20,5 +20,7 @@ for pub in author['publications']:
 
 # Write publications to markdown file
 # with open("publications.md", "w", encoding="utf-8") as file:
- with open("publications/index.md", "w", encoding="utf-8") as file:
+# with open("publications/index.md", "w", encoding="utf-8") as file:
+ with open("list-of-publications.md", "w", encoding="utf-8") as file:
+
     file.write(md_content)
