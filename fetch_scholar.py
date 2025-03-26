@@ -5,7 +5,7 @@ scholar_id = "Nt-tWzsAAAAJ"
 
 # Fetch your Google Scholar profile
 author = scholarly.fill(scholarly.search_author_id(scholar_id))
-
+ 
 # Prepare markdown content
 md_content = "# 📚 Publications\n\n"
 for pub in author['publications']:
