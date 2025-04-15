@@ -16,9 +16,9 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install scholarly package
+      - name: Install scholarly package and compatible httpx
         run: |
-          pip install scholarly
+          pip install scholarly httpx==0.26.0
 
       - name: Fetch and Update Publications
         run: |
