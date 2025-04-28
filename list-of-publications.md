@@ -1,32 +1,32 @@
-_Updated automatically from [Google Scholar](https://scholar.google.com/citations?user=Nt-tWzsAAAAJ)._
+_For the latest updates, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=Nt-tWzsAAAAJ)._
 
-- **The dynamics of an elastic structure coupled with a rocking wall**, Nicos Makris and Mehrdad Aghagholizadeh. *Earthquake Engineering & Structural Dynamics*, 2017. (Cited by: 97)
-- **Seismic response of a yielding structure coupled with a rocking wall**, Mehrdad Aghagholizadeh and Nicos Makris. *Journal of Structural Engineering*, 2018. (Cited by: 72)
-- **Earthquake response analysis of yielding structures coupled with vertically restrained rocking walls**, Mehrdad Aghagholizadeh and Nicos Makris. *Earthquake Engineering & Structural Dynamics*, 2018. (Cited by: 56)
-- **Effect of supplemental hysteretic and viscous damping on rocking response of free-standing columns**, Nicos Makris and Mehrdad Aghagholizadeh. *Journal of Engineering Mechanics*, 2019. (Cited by: 53)
-- **A review of model updating methods for civil infrastructure systems**, Mehrdad Aghagholizadeh and FN Catbas. **, 2015. (Cited by: 29)
-- **A finite element model for seismic response analysis of vertically-damped rocking-columns**, Mehrdad Aghagholizadeh. *Engineering Structures*, 2020. (Cited by: 28)
-- **Response analysis of yielding structures coupled to rocking walls with supplemental damping**, Mehrdad Aghagholizadeh and Nicos Makris. *Earthquake Engineering & Structural Dynamics*, 2021. (Cited by: 12)
-- **Comparative analysis and evaluation of two prestressed girder bridges**, Mehrdad Aghagholizadeh and Necati Catbas. *arXiv preprint arXiv:1907.13014*, 2019. (Cited by: 10)
-- **Damage detection of spent nuclear fuel canisters using frequency response functions**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro. *Annals of Nuclear Energy*, 2023. (Cited by: 8)
-- **A new method to assess damage to RCMRFs from period elongation and Park–Ang damage index using IDA**, Mehrdad Aghagholizadeh and Ali Massumi. *International Journal of Advanced Structural Engineering*, 2016. (Cited by: 8)
-- **Earthquake Protection of a Yielding Frame with a Rocking Wall**, Nicos Makris and Mehrdad Aghagholizadeh. **, 2017. (Cited by: 7)
-- **Relation between dynamic characteristics and damage index of RC-MRFs using non-linear incremental dynamic analysis**, Mehrdad Aghagholizadeh and Ali Massumi. *Proceedings of the 15 th World Conference on Earthquale Engineering*, 2012. (Cited by: 4)
-- **Study on dynamics of an elastic oscillator coupled with a rocking wall**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:1803.02669*, 2018. (Cited by: 3)
-- **Seismic Response of Moment Resisting Frames Coupled with Rocking Walls**, Mehrdad Aghagholizadeh. **, 2018. (Cited by: 3)
-- **Moment Resisting Frames Coupled with Rocking Walls Subjected to Earthquakes**, Mehrdad Aghagholizadeh and Nicos Makris. *Pacific Earthquake Engineering Research Center, University of California, Berkeley, CA*, 2022. (Cited by: 2)
-- **Seismic response of yielding frames coupled with restrained rocking walls**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2018. (Cited by: 2)
-- **Response Modification of Moment Resisting Frames using Rocking Wall with Supplemental Dampers**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2022. (Cited by: 1)
-- **Bayesian Model Updating of Spent Nuclear Fuel Assemblies with Experimental Data Considering Uncertainties in the Modeling and Experiments**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro and Nidhi Thanki. **, 2022. (Cited by: 1)
-- **A finite element model for seismic response analysis of free-standing rocking columns with vertical dampers**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:2004.01060*, 2020. (Cited by: 1)
-- **Overview and Analysis of Seismic Resilient Structures with Modular Rocking Shear Walls**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:2406.19582*, 2024. (Cited by: 0)
-- **Experimental and Numerical Case Study for Damage Detection of Spent Nuclear Fuel Canisters**, Mehrdad Aghagholizadeh. **, 2024. (Cited by: 0)
-- **Response Modification of Moment Resisting Frames using Sustainable Structural Systems: Rocking Walls**, Mehrdad Aghagholizadeh. **, 2024. (Cited by: 0)
-- **Iconoclasm Island: New Research on the Destruction of Rapa Nui’s Statues**, Mark McCoy and Mark Aghagholizadeh and Nicos Makris and Mara Mulrooney and Britton Shepardson. **, 2024. (Cited by: 0)
-- **Frequency Response Function Based Damage Detection of Spent Nuclear Fuel Canisters**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro. **, 2022. (Cited by: 0)
-- **Seismic Response of Yielding Structures Coupled to Rocking Walls with Supplemental Damping**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2022. (Cited by: 0)
-- **Seismic Response of Tall Buildings Coupled with Rocking Walls**, M Aghagholizadeh and N Makris. **, 2020. (Cited by: 0)
-- **Earthquake Response Analysis of Yielding Structures Coupled with Rocking Walls**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2019. (Cited by: 0)
-- **The Role of Supplemental Damping on the Rocking Response of Free-Standing Columns**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2019. (Cited by: 0)
-- **Finite element analysis of a bridge response to different types of truck loads, considering load and model uncertainties**, Mehrdad Aghagholizadeh. **, 2015. (Cited by: 0)
-- **Relation between Dynamic Characteristics and Damage Index of RC-MRFs Using NonLinear Incremental Dynamic Analyses**, Mehrdad Aghagholizadeh. **, 2012. (Cited by: 0)
+- **The dynamics of an elastic structure coupled with a rocking wall**, Nicos Makris and Mehrdad Aghagholizadeh. *Earthquake Engineering & Structural Dynamics*, 2017. 
+- **Seismic response of a yielding structure coupled with a rocking wall**, Mehrdad Aghagholizadeh and Nicos Makris. *Journal of Structural Engineering*, 2018. 
+- **Earthquake response analysis of yielding structures coupled with vertically restrained rocking walls**, Mehrdad Aghagholizadeh and Nicos Makris. *Earthquake Engineering & Structural Dynamics*, 2018.
+- **Effect of supplemental hysteretic and viscous damping on rocking response of free-standing columns**, Nicos Makris and Mehrdad Aghagholizadeh. *Journal of Engineering Mechanics*, 2019. 
+- **A review of model updating methods for civil infrastructure systems**, Mehrdad Aghagholizadeh and FN Catbas. **, 2015.
+- **A finite element model for seismic response analysis of vertically-damped rocking-columns**, Mehrdad Aghagholizadeh. *Engineering Structures*, 2020. 
+- **Response analysis of yielding structures coupled to rocking walls with supplemental damping**, Mehrdad Aghagholizadeh and Nicos Makris. *Earthquake Engineering & Structural Dynamics*, 2021. 
+- **Comparative analysis and evaluation of two prestressed girder bridges**, Mehrdad Aghagholizadeh and Necati Catbas. *arXiv preprint arXiv:1907.13014*, 2019. 
+- **Damage detection of spent nuclear fuel canisters using frequency response functions**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro. *Annals of Nuclear Energy*, 2023. 
+- **A new method to assess damage to RCMRFs from period elongation and Park–Ang damage index using IDA**, Mehrdad Aghagholizadeh and Ali Massumi. *International Journal of Advanced Structural Engineering*, 2016. 
+- **Earthquake Protection of a Yielding Frame with a Rocking Wall**, Nicos Makris and Mehrdad Aghagholizadeh. **, 2017. 
+- **Relation between dynamic characteristics and damage index of RC-MRFs using non-linear incremental dynamic analysis**, Mehrdad Aghagholizadeh and Ali Massumi. *Proceedings of the 15 th World Conference on Earthquale Engineering*, 2012. 
+- **Study on dynamics of an elastic oscillator coupled with a rocking wall**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:1803.02669*, 2018. 
+- **Seismic Response of Moment Resisting Frames Coupled with Rocking Walls**, Mehrdad Aghagholizadeh. **, 2018. 
+- **Moment Resisting Frames Coupled with Rocking Walls Subjected to Earthquakes**, Mehrdad Aghagholizadeh and Nicos Makris. *Pacific Earthquake Engineering Research Center, University of California, Berkeley, CA*, 2022. 
+- **Seismic response of yielding frames coupled with restrained rocking walls**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2018. 
+- **Response Modification of Moment Resisting Frames using Rocking Wall with Supplemental Dampers**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2022. 
+- **Bayesian Model Updating of Spent Nuclear Fuel Assemblies with Experimental Data Considering Uncertainties in the Modeling and Experiments**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro and Nidhi Thanki. **, 2022. 
+- **A finite element model for seismic response analysis of free-standing rocking columns with vertical dampers**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:2004.01060*, 2020. 
+- **Overview and Analysis of Seismic Resilient Structures with Modular Rocking Shear Walls**, Mehrdad Aghagholizadeh. *arXiv preprint arXiv:2406.19582*, 2024. 
+- **Experimental and Numerical Case Study for Damage Detection of Spent Nuclear Fuel Canisters**, Mehrdad Aghagholizadeh. **, 2024. 
+- **Response Modification of Moment Resisting Frames using Sustainable Structural Systems: Rocking Walls**, Mehrdad Aghagholizadeh. **, 2024. 
+- **Iconoclasm Island: New Research on the Destruction of Rapa Nui’s Statues**, Mark McCoy and Mark Aghagholizadeh and Nicos Makris and Mara Mulrooney and Britton Shepardson. **, 2024. 
+- **Frequency Response Function Based Damage Detection of Spent Nuclear Fuel Canisters**, Mehrdad Aghagholizadeh and Bora Gencturk and Roger Ghanem and Anna Arcaro. **, 2022. 
+- **Seismic Response of Yielding Structures Coupled to Rocking Walls with Supplemental Damping**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2022. 
+- **Seismic Response of Tall Buildings Coupled with Rocking Walls**, M Aghagholizadeh and N Makris. **, 2020. 
+- **Earthquake Response Analysis of Yielding Structures Coupled with Rocking Walls**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2019. 
+- **The Role of Supplemental Damping on the Rocking Response of Free-Standing Columns**, Mehrdad Aghagholizadeh and Nicos Makris. **, 2019. 
+- **Finite element analysis of a bridge response to different types of truck loads, considering load and model uncertainties**, Mehrdad Aghagholizadeh. **, 2015. 
+- **Relation between Dynamic Characteristics and Damage Index of RC-MRFs Using NonLinear Incremental Dynamic Analyses**, Mehrdad Aghagholizadeh. **, 2012.
