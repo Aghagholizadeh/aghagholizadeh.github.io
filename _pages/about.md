@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Welcome to the Structural Engineering and Health Monitoring (SEHM) Lab at LMU"
