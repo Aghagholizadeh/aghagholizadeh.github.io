@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "Welcome to the Structural Engineering and Health Monitoring (SEHM) Lab at LMU"
@@ -14,9 +15,8 @@ The high occupancy of urban multistory buildings, the aging of critical infrastr
 - **Physics-based and probabilistic digital twins** for real-time structural health monitoring and condition assessment  
 - **High-fidelity finite element and reduced-order modeling** to enable efficient simulation, model updating, and uncertainty quantification  
 
+<img width="2074" height="1227" alt="website_welcome" src="https://github.com/user-attachments/assets/61ff865d-124e-4c96-bbd3-0760b5bcf979" />
 
-
-![Aerial view of Los Angeles](https://github.com/user-attachments/assets/76f3c751-5b8a-4478-ac53-ecf873149189)
 
 Current work in the SEHM Lab combines numerical studies with laboratory-scale and system-level investigations to better understand structural response, improve predictive capabilities, and support performance-based engineering decisions.
 
