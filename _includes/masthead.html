@@ -3,6 +3,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
 
@@ -17,20 +18,20 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
+
             <li class="masthead__menu-item">
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
 
-        <li class="masthead__menu-item masthead__menu-item--logo">
-          <a href="{{ base_path }}/">
-            <img src="{{ base_path }}/images/sehm_logo.png" alt="SEHM Lab">
-          </a>
-        </li>
-
         <ul class="hidden-links hidden"></ul>
       </nav>
+
+      <a href="{{ base_path }}/" class="masthead__logo">
+        <img src="{{ base_path }}/images/sehm_logo.png" alt="SEHM Lab">
+      </a>
+
     </div>
   </div>
 </div>
