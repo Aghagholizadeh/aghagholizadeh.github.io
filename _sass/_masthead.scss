@@ -56,3 +56,16 @@
     font-weight: 700;
   }
 }
+
+.masthead__sehm-logo {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  padding-left: 1.5em;
+}
+
+.masthead__sehm-logo img {
+  height: 36px;
+  width: auto;
+  display: block;
+}
