@@ -5,6 +5,11 @@
 # prevent it from being included in the site.
 
 main:
+
+  - title: "Home"
+    url: /
+
+
   - title: "People"
     url: /people/
 
@@ -23,8 +28,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
 
     
  # - title: "CV"
