@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="/images/website_welcome.png"
+       alt="Overview of the Structural Engineering and Health Monitoring Laboratory"
+       width="100%">
+</p>
+
 The high occupancy of urban multistory buildings, the aging of critical infrastructure, and evolving safety and sustainability expectations all demand new performance objectives for civil structures. Research at the Structural Engineering and Health Monitoring (SEHM) Lab at Loyola Marymount University focuses on developing resilient, damage-limiting structural systems and data-informed methodologies for buildings and bridges subjected to earthquakes and other natural hazards.
 
 **SEHM Lab research integrates analytical modeling, computational simulation, and experimental validation, with emphasis on:**
@@ -15,11 +21,6 @@ The high occupancy of urban multistory buildings, the aging of critical infrastr
 - **High-fidelity finite element and reduced-order modeling** to enable efficient simulation, model updating, and uncertainty quantification  
 
 
-<p align="center">
-  <img src="/images/website_welcome.png"
-       alt="Overview of the Structural Engineering and Health Monitoring Laboratory"
-       width="100%">
-</p>
 
 Current work in the SEHM Lab combines numerical studies with laboratory-scale and system-level investigations to better understand structural response, improve predictive capabilities, and support performance-based engineering decisions.
 
