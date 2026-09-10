@@ -41,7 +41,9 @@ nav_order: 2
 
   <section class="people-section alumni" aria-labelledby="alumni-heading">
     <div class="section-heading"><p class="people-eyebrow">Former members</p><h2 id="alumni-heading">Alumni</h2></div>
-    <article class="alumni-card"><img src="{{ '/assets/img/sehm/julian-smith.jpeg' | relative_url }}" alt="Julian Smith"><div><h3>Julian Smith</h3><p class="member-role">B.S. Civil Engineering, LMU 2025</p><p>Julian contributed to the construction of the bridge mock-up and is now pursuing graduate study at Georgia Tech.</p></div></article>
+    <article class="member-card"><div class="member-index">JS</div><div><h3>Julian Smith</h3><p class="member-role">B.S. Civil Engineering, LMU 2025</p><p>ulian contributed to the construction of the bridge mock-up and is now pursuing graduate study at Georgia Tech.</p></div></article>   
+    
+    <!-- <article class="alumni-card"><img src="{{ '/assets/img/sehm/julian-smith.jpeg' | relative_url }}" alt="Julian Smith"><div><h3>Julian Smith</h3><p class="member-role">B.S. Civil Engineering, LMU 2025</p><p>Julian contributed to the construction of the bridge mock-up and is now pursuing graduate study at Georgia Tech.</p></div></article>  -->
   </section>
 </div>
 
