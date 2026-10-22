@@ -9,13 +9,13 @@ nav_order: 4
 
 <div class="sehm-publications-intro">
   <p class="sehm-publications-kicker">Selected scholarship</p>
-  <h1>Research in structural dynamics, mechanics, and monitoring.</h1>
+  <h2>Research in structural dynamics, mechanics, and monitoring.</h2>
   <p>This selection highlights recent and foundational work from the SEHM Lab in earthquake engineering, rocking structural systems, structural health monitoring, and computational dynamics.</p>
   <a class="sehm-scholar-button" href="https://scholar.google.com/citations?user=Nt-tWzsAAAAJ&hl=en&authuser=1">View the complete list on Google Scholar <span aria-hidden="true">→</span></a>
 </div>
 
 <div class="sehm-publications-heading">
-  <div><p class="sehm-publications-kicker">Journal articles</p><h2>Selected publications</h2></div>
+  <div><p class="sehm-publications-kicker">Journal articles</p><h2 style="font-weight: 600;">Selected publications</h2></div>
   <p>Use the DOI button to visit the publisher. A PDF button is shown when a local copy is available.</p>
 </div>
 
