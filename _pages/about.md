@@ -49,7 +49,7 @@ nav_order: 1
     <img src="{{ '/assets/img/sehm/mehrdad-aghagholizadeh.jpg' | relative_url }}" alt="Mehrdad Aghagholizadeh">
     <div>
       <p class="sehm-eyebrow">Lab director</p>
-      <h2>Mehrdad Aghagholizadeh, <span class="sehm-credentials">Ph.D., P.E.</span></h2>
+      <h3>Mehrdad Aghagholizadeh, <span class="sehm-credentials">Ph.D., P.E.</span></h3>
       <p>Assistant Professor of Structural Engineering at Loyola Marymount University. His research connects experimental mechanics, computational simulation, and structural health monitoring to advance resilient civil infrastructure.</p>
       <a class="sehm-text-link" href="{{ '/people/' | relative_url }}">People at SEHM <span aria-hidden="true">→</span></a>
     </div>
