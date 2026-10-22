@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Selected publications from the Structural Engineering and Health Monitoring Laboratory.
 nav: true
 nav_order: 4
 ---
