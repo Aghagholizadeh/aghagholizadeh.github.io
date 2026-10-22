@@ -9,7 +9,7 @@ nav_order: 2
 <div class="sehm-people">
   <header class="people-intro">
     <p class="people-eyebrow">The SEHM Lab</p>
-    <h1>People</h1>
+    <h2 style="font-weight: 600;">People</h2>
     <p>Our group brings together structural engineering, experimental mechanics, computation, and sensing to study how civil infrastructure behaves under dynamic loading.</p>
   </header>
 
