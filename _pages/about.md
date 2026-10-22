@@ -27,7 +27,7 @@ nav_order: 1
   <section class="sehm-section">
     <div class="sehm-heading">
       <p class="sehm-eyebrow">Research themes</p>
-      <h2>From structural response to informed decisions</h2>
+      <h3 style="font-weight: 600;">From structural response to informed decisions</h3>
     </div>
     <div class="sehm-grid">
       <a class="sehm-card" href="{{ '/research/#structural-health-monitoring' | relative_url }}">
