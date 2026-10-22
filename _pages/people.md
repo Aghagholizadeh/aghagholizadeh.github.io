@@ -17,7 +17,7 @@ nav_order: 2
     <img src="{{ '/assets/img/sehm/mehrdad-aghagholizadeh.jpg' | relative_url }}" alt="Mehrdad Aghagholizadeh">
     <div>
       <p class="people-eyebrow">Lab director</p>
-      <h2 id="director-heading">Mehrdad Aghagholizadeh, <span>Ph.D., P.E.</span></h2>
+      <h3 style="font-weight: 600;" id="director-heading">Mehrdad Aghagholizadeh, <span>Ph.D., P.E.</span></h3>
       <p>Dr. Aghagholizadeh is an Assistant Professor of Structural Engineering at Loyola Marymount University. He received his Ph.D. from the University of Central Florida, completed postdoctoral research at the University of Southern California, and previously taught at Southern Methodist University.</p>
       <p>His research spans structural dynamics, earthquake engineering, experimental mechanics, computational modeling, and structural health monitoring. He is a licensed Professional Engineer and a recipient of the ASCE J. James R. Croes Medal.</p>
       <div class="people-links">
