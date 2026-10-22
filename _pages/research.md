@@ -24,7 +24,7 @@ description: Research in structural dynamics, earthquake engineering, structural
     <div class="research-feature__image"><img src="{{ '/assets/img/sehm/research/rocking-shear-wall.webp' | relative_url }}" alt="Rocking shear wall coupled to a moment-resisting frame"></div>
     <div class="research-feature__copy">
       <p class="research-kicker">01 · Earthquake engineering</p>
-      <h3>Rocking and self-centering structural systems</h3>
+      <h3 style="font-weight: 600;">Rocking and self-centering structural systems</h3>
       <p>Weak-story mechanisms and concentrated drift demands are recurring causes of severe damage in multistory buildings. We investigate hybrid systems that couple moment-resisting frames with stiff walls permitted to uplift and rock during earthquake excitation, promoting a more uniform distribution of deformation over the structural height.</p>
       <p>Our analytical and nonlinear numerical studies examine the dynamics of yielding frames coupled with rocking walls, the influence of wall configuration and supplemental damping, and the resulting effects on residual drift, damage, and post-earthquake functionality.</p>
     </div>
@@ -34,7 +34,7 @@ description: Research in structural dynamics, earthquake engineering, structural
     <div class="research-feature__image"><img src="{{ '/assets/img/sehm/research/structural-health-monitoring.png' | relative_url }}" alt="Experimental structural health monitoring setup"></div>
     <div class="research-feature__copy">
       <p class="research-kicker">02 · Structural health monitoring</p>
-      <h3>Physics-based digital twins and damage detection</h3>
+      <h3 style="font-weight: 600;">Physics-based digital twins and damage detection</h3>
       <p>Aging infrastructure requires reliable methods for identifying structural change and supporting condition-based decisions. We combine measured vibration response with mechanics-based models to develop digital twins capable of system identification, model updating, damage detection, and prognosis.</p>
       <p>SEHM Lab research draws on laboratory experiments and field measurements from bridges, stadiums, and energy infrastructure. Current work emphasizes physics-based vibration features, uncertainty-aware inference, and learning methods that remain connected to structural behavior.</p>
     </div>
@@ -53,7 +53,7 @@ description: Research in structural dynamics, earthquake engineering, structural
     <div class="research-feature__image"><img src="{{ '/assets/img/sehm/research/finite-element-modeling.png' | relative_url }}" alt="High-fidelity finite element model used for dynamic analysis"></div>
     <div class="research-feature__copy">
       <p class="research-kicker">03 · Computational modeling</p>
-      <h3>High-fidelity and reduced-order structural models</h3>
+      <h3 style="font-weight: 600;">High-fidelity and reduced-order structural models</h3>
       <p>Detailed finite element models can reproduce complex structural dynamics, but repeated analyses for model updating, uncertainty quantification, and inverse problems remain computationally demanding.</p>
       <p>We develop and apply substructuring and component mode synthesis methods—including Craig–Bampton reduction—to construct computationally efficient models that preserve the modes, frequency-response functions, and physical characteristics important to dynamic analysis.</p>
     </div>
@@ -62,7 +62,7 @@ description: Research in structural dynamics, earthquake engineering, structural
   <section class="research-secondary">
     <div class="research-secondary__heading">
       <p class="research-kicker">Extended applications</p>
-      <h3>Mechanics across scales and disciplines</h3>
+      <h3 style="font-weight: 600;">Mechanics across scales and disciplines</h3>
     </div>
     <div class="research-secondary__grid">
       <article>
