@@ -10,7 +10,7 @@ description: Research in structural dynamics, earthquake engineering, structural
 <div class="research-page">
   <header class="research-intro">
     <p class="research-kicker">SEHM Lab · Loyola Marymount University</p>
-    <h1>Research grounded in mechanics, computation, and experiment.</h1>
+    <h2>Research grounded in mechanics, computation, and experiment.</h2>
     <p>The SEHM Lab studies the behavior of structural systems under dynamic loading. Our work integrates analytical mechanics, laboratory and field experiments, computational modeling, system identification, and data-driven methods to advance earthquake engineering and structural health monitoring.</p>
   </header>
 
