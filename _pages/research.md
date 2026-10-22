@@ -1,10 +1,8 @@
 ---
 layout: page
-title: research
 permalink: /research/
 nav: true
 nav_order: 3
-description: Research in structural dynamics, earthquake engineering, structural health monitoring, digital twins, and computational mechanics.
 ---
 
 <div class="research-page">
