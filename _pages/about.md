@@ -56,8 +56,8 @@ nav_order: 1
   </section>
 
   <section class="sehm-section sehm-split">
-    <div><p class="sehm-eyebrow">Recent work</p><h2>Publications</h2><p>Research findings in earthquake engineering, structural health monitoring, computational mechanics, and resilient structural systems.</p><a class="sehm-text-link" href="{{ '/publications/' | relative_url }}">View publications <span aria-hidden="true">→</span></a></div>
-    <div><p class="sehm-eyebrow">From the lab</p><h2>Latest news</h2><p>Conference presentations, new publications, student research, and updates from the SEHM Lab.</p><a class="sehm-text-link" href="{{ '/news/' | relative_url }}">Read lab news <span aria-hidden="true">→</span></a></div>
+    <div><p class="sehm-eyebrow">Recent work</p><h3>Publications</h3><p>Research findings in earthquake engineering, structural health monitoring, computational mechanics, and resilient structural systems.</p><a class="sehm-text-link" href="{{ '/publications/' | relative_url }}">View publications <span aria-hidden="true">→</span></a></div>
+    <div><p class="sehm-eyebrow">From the lab</p><h3>Latest news</h3><p>Conference presentations, new publications, student research, and updates from the SEHM Lab.</p><a class="sehm-text-link" href="{{ '/news/' | relative_url }}">Read lab news <span aria-hidden="true">→</span></a></div>
   </section>
 
   <section class="sehm-academic-profiles" aria-labelledby="academic-profiles-title">
