@@ -24,7 +24,7 @@ description: Research in structural dynamics, earthquake engineering, structural
     <div class="research-feature__image"><img src="{{ '/assets/img/sehm/research/rocking-shear-wall.webp' | relative_url }}" alt="Rocking shear wall coupled to a moment-resisting frame"></div>
     <div class="research-feature__copy">
       <p class="research-kicker">01 · Earthquake engineering</p>
-      <h2>Rocking and self-centering structural systems</h2>
+      <h3>Rocking and self-centering structural systems</h3>
       <p>Weak-story mechanisms and concentrated drift demands are recurring causes of severe damage in multistory buildings. We investigate hybrid systems that couple moment-resisting frames with stiff walls permitted to uplift and rock during earthquake excitation, promoting a more uniform distribution of deformation over the structural height.</p>
       <p>Our analytical and nonlinear numerical studies examine the dynamics of yielding frames coupled with rocking walls, the influence of wall configuration and supplemental damping, and the resulting effects on residual drift, damage, and post-earthquake functionality.</p>
     </div>
