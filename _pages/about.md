@@ -12,7 +12,7 @@ nav_order: 1
     <div>
       <img class="sehm-logo" src="{{ '/assets/img/sehm/sehm-lockup.png' | relative_url }}" alt="Structural Engineering and Health Monitoring Laboratory">
       <p class="sehm-eyebrow">Loyola Marymount University · Los Angeles</p>
-      <h2>Engineering resilient structures through mechanics, sensing, and data.</h2>
+      <h2 style="font-weight: 700;>Engineering resilient structures through mechanics, sensing, and data.</h2>
       <p class="sehm-lead">The SEHM Lab investigates the dynamic behavior of structures through engineering mechanics, experimental testing, computational modeling, and data-driven analysis, with applications to earthquake engineering, structural health monitoring, and resilient infrastructure.</p>
       <div class="sehm-actions">
         <a class="sehm-button primary" href="{{ '/research/' | relative_url }}">Explore our research</a>
