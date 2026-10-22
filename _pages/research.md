@@ -43,7 +43,7 @@ description: Research in structural dynamics, earthquake engineering, structural
   <article class="research-project">
     <div>
       <p class="research-label">Current experimental platform</p>
-      <h3>Digital Twin Bridge Mockup</h3>
+      <h3 style="font-weight: 600;">Digital Twin Bridge Mockup</h3>
       <p>A two-span steel bridge mockup supports research in experimental structural dynamics, reduced-order modeling, and physics-based digital twins. CNC-fabricated components, instrumented steel columns, finite element models, and experimental mode identification provide a controlled platform for real-time system identification and damage-detection studies.</p>
     </div>
     <img src="{{ '/assets/img/sehm/research/bridge-mockup.png' | relative_url }}" alt="Bridge mockup fabrication, finite element modeling, and vibration-analysis workflow">
